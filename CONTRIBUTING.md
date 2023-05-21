@@ -19,13 +19,13 @@ Details about the way to reproduce a bug helps to fix it
 1. fork the project
 1. implement the feature or fix the bug.
 Corresponding unit tests must be added or adapted according to what was discussed in the issue
-1. create a pull-request and notify the library contributors (see the [Contributions](README.md#contributions) section)
+1. create a pull-request and notify the library contributors (see the [Contributions](original-README.md#contributions) section)
 
 All text files are expected to be encoded in UTF-8.
 
 ## Contributions and version update
 
-Add yourself at the bottom of the [contributions section of the README.md](README.md#contributions) file:
+Add yourself at the bottom of the [contributions section of the README.md](original-README.md#contributions) file:
 
 ```text
 # Contributions
@@ -35,7 +35,7 @@ Add yourself at the bottom of the [contributions section of the README.md](READM
 * [Your Full Name](https://github.com/yourgithubname)
 ```
 
-Discuss the new version number in the pull request and add a changelog line at the top of the [Changelog section of the README.md](README.md#changelog) file:
+Discuss the new version number in the pull request and add a changelog line at the top of the [Changelog section of the README.md](original-README.md#changelog) file:
 
 ```text
 # Changelog
